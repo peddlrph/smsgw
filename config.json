@@ -1,0 +1,12 @@
+{
+     "port": "8080",
+     "host": "localhost",
+     "token": "<tokenforhttpheader>",
+     "db_connect": "root:<password>@tcp(localhost:3306)/<apidatabase>",
+     "gateway_number": "09876543210",
+     "weburl": "https://your.app",
+     "apiurl": "url for api",
+     "whsecret": "this_is_the_webhook_secret",
+     "serialname": "/dev/ttyUSB0",
+     "serialbaud":115200
+}
